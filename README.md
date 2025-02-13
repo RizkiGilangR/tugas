@@ -23,4 +23,7 @@ ini adalah github rizki gilang ramadani kelas 11 rpl B yanv berisi tugas tugas
    npm install
    node tugas.html
 https://github.com/RizkiGilangR/tugas/tree/main
+penggunaan
+```bash
+node tugas.html
 
