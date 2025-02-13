@@ -19,4 +19,4 @@ ini adalah github rizki gilang ramadani kelas 11 rpl B yanv berisi tugas tugas
 1. Clone repositori ini:
    ```bash
    git clone
-https://github.com/RizkiGilangR/tugas/blob/main/tugas%20cv.html
+https://github.com/RizkiGilangR/tugas/tree/main
