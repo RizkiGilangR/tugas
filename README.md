@@ -18,4 +18,5 @@ Deskripsi singkat tentang proyek ini dan apa yang dilakukannya.
 ## Instalasi
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone
+https://github.com/RizkiGilangR/tugas/blob/main/tugas%20cv.html
