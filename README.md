@@ -19,6 +19,8 @@ ini adalah github rizki gilang ramadani kelas 11 rpl B yanv berisi tugas tugas
 1. Clone repositori ini:
    ```bash
    git clone
+   cd repo
+   npm install
 https://github.com/RizkiGilangR/tugas/tree/main
 cd repo
 npm install
