@@ -1,6 +1,6 @@
-# Nama Proyek
+# tugas rizki gilang ramadani
 
-Deskripsi singkat tentang proyek ini dan apa yang dilakukannya.
+ini adalah github rizki gilang ramadani kelas 11 rpl B yanv berisi tugas tugas
 
 ## Daftar Isi
 - [Fitur](#fitur)
