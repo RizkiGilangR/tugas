@@ -3,27 +3,16 @@
 ini adalah github rizki gilang ramadani kelas 11 rpl B yanv berisi tugas tugas
 
 ## Daftar Isi
-- [Fitur](#fitur)
-- [Instalasi](#instalasi)
+- [info tugas](#tugas)
+- [bahan yang di gunakan](#bahan)
 - [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 - [Kontak](#kontak)
 
-## Fitur
-- Fitur 1
-- Fitur 2
-- Fitur 3
+## info tugas
+- tugas cv
 
-## Instalasi
-1. Clone repositori ini:
-   ```bash
-   git clone
-   cd repo
-   npm install
-   node tugas.html
-https://github.com/RizkiGilangR/tugas/tree/main
-penggunaan
-```bash
-node tugas.html
+## bahan yang di gunakan
+- HTML
+- CSS
 
