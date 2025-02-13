@@ -21,6 +21,6 @@ ini adalah github rizki gilang ramadani kelas 11 rpl B yanv berisi tugas tugas
    git clone
    cd repo
    npm install
+   node tugas.html
 https://github.com/RizkiGilangR/tugas/tree/main
-cd repo
-npm install
+
